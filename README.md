@@ -1,7 +1,7 @@
 
 **Olá! Eu sou <a href="https://www.linkedin.com/in/tonistorres/"><i>Tonis Torres</i></a>.**
 - 🔭 Estudante de Desenvolvimento WEB **Trybe** e Análise e Desenvolvimento de Sistemas na **FACAM-MA**.
-- 🌱 Aprendendo **Skills**: Criatividade, Liderança, Comunicação, Colaboração, Inteligência Emocional,Pensamento Crítico,Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
+- 🌱 Aprendendo **Skills**: Criatividade, Liderança, Comunicação, Colaboração, Inteligência Emocional,Pensamento Crítico, Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
 <div>
 SOBRE:
 Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco constatemente me reciclar. Fazendo curso, lendo artigos, me relacionando com profissionais experientes, colegas de faculdade, professores etc. Algo marcante que aconteceu na minha vida, foi o dia que decidi aprender matématica de fato. Bem eu coloquei vários livros de matématica sobre a mesa, livros da 4ª,5ª,6ª,7ª,8ª sérei do 1º e 2º ano do segundo grau. Depois me dediquei por vários meses à estudar e responder todos os exercícios propostos por cada um deles, porém, quando cheguei em matriz percebi que amava matemática mais os numéros não tinham dinamismo(eram estáticos), sem graça... Foi quando eu descobri os algoritmos e pude dar vida aos números que tanto amava por meio de linguagens computacionais.  Aprender a aprender esse é o lema que carrego comigo e tento cada dia da minha vida melhorar como profissional e pessoa desenvolvedora que sou. 
