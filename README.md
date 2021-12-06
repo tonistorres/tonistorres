@@ -1,4 +1,5 @@
-### Olá! Eu sou Tonis Torres.
+<hr/>
+**Olá! Eu sou Tonis Torres.**
 - 🔭 Estudante de Desenvolvimento WEB **Trybe** e Análise e Desenvolvimento de Sistemas na **FACAM-MA**.
 - 🌱 Aprendendo **Skills**: Criatividade,Liderança,Comunicação,Colaboração, Inteligência Emocional,Pensamento Crítico,Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
 - 😄 Pronouns:Ele/Dele
