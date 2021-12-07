@@ -16,17 +16,19 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 <div style="display: inline_block"><br>
   <div>
 <h2> Conecte-se comigo:</h2>
-<br/>
+
 <span> 
-<a href="https://www.youtube.com/channel/UCjFo00zX0yvFrm5VIW1ieUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.youtube.com/channel/UCjFo00zX0yvFrm5VIW1ieUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
   <a href="https://www.instagram.com/tonistorresferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-
   <a href = "mailto:sisvenda2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/tonistorres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </span>
+  
+</span>
+    
 </div>
   <h2> HABILIDADES:</h>
   <hr/>
