@@ -8,6 +8,7 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 </div>
 <hr/>
 
+<h2 align="center">Algumas das minhas estatísticas :bar_chart:</h2>
 <div align="center">
   <a href="https://github.com/tonistorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonistorres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +17,7 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 
   
 <div><br>
-  <h2> Conecte-se comigo:</h2>
+  <h2 align="center"> Conecte-se comigo:handshake:</h2>
 <a href="https://www.linkedin.com/in/tonistorres/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" width="138" target="_blank" alt="imagem-linkedin" /> </a>
 <a href="https://github.com/tonistorres" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="38" width="138"   alt="Imagem-github"/></a>
 <a href="#" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" width="138" target="_blank" alt="imagem-email"/> </a>
@@ -35,12 +36,14 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
    <img align="center" alt="Tonis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Tonis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <h2>  Outras Tecnologias:</h2>
-  <hr/>
-  <img align="center" alt="Tonis-JavaSE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Tonis-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Tonis-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <h2>DataBases:</h2>
+  <img align="center" alt="Tonis-SQL" height="42" width="138" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+     
+ <h2>  Outras Tecnologias :bar_chart:</h2>
+ <img align="center" alt="Tonis-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
   <img align="center" alt="Tonis-PostGrees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <hr/>   
+ <img align="center" alt="Tonis-JavaSE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <hr/>   
 </div>
  
