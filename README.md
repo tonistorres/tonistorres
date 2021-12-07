@@ -25,25 +25,26 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 <a href="https://www.facebook.com/datorres.ferreira" target="_blank">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="38" width="138" target="_blank" alt="imagem-facebook"/> </a>
 <a href="https://www.youtube.com/channel/UCjFo00zX0yvFrm5VIW1ieUw" target="_blank">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" width="138" target="_blank" alt="imagem-youtube"/> </a>
  </div>
-     
+     <h1 align="center"> HABILIDADES </h1>
+<hr/>  
 <div>
-  <h2> HABILIDADES
-  <br/><br/>
- Fornt-End:
-  <hr/>
+  <h2>Fornt-End:</h2>
+  
   <img align="center" alt="Tonis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tonis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Tonis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Tonis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+</div>
+<div>  
   <h2>DataBases:</h2>
   <img align="center" alt="Tonis-SQL" height="42" width="138" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-     
- <h2>  Outras Tecnologias :bar_chart:</h2>
- <img align="center" alt="Tonis-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
-  <img align="center" alt="Tonis-PostGrees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <img align="center" alt="Tonis-JavaSE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <hr/>   
-</div>
- 
+</div>     
+<div>  
+ <h2>  Outras Tecnologias:</h2>
+<img align="center" alt="Tonis-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="40" alt="imagem-bash"/>
+<img align="center" alt="Tonis-JavaSE" height="30" width="40" alt="image-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" height="30" width="40" alt="imagem-ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />   
+<img align="center" height="50"  width="100" alt="imagem-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />    
+<img align="center" height="30" width="40" alt="imagem-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> </div>  
+<hr/>     
