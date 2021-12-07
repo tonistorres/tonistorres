@@ -16,56 +16,31 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 
   
 <div><br>
-
   <h2> Conecte-se comigo:</h2>
-
 <a href="https://www.linkedin.com/in/tonistorres/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" width="138" target="_blank" alt="imagem-linkedin" /> </a>
 <a href="https://github.com/tonistorres" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="38" width="138"   alt="Imagem-github"/></a>
 <a href="#" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" width="138" target="_blank" alt="imagem-email"/> </a>
 <a href="https://www.instagram.com/tonistorresferreira/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" width="138" target="_blank" alt="imagem-intagram"/> </a>
 <a href="https://www.facebook.com/datorres.ferreira" target="_blank">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="38" width="138" target="_blank" alt="imagem-facebook"/> </a>
- 
- 
-
-  	
-  <div>
-    
-
-<div align="center"  style="display: inline_block"> 
-  
-</div>
-    
-</div>
-  <h2> HABILIDADES:</h>
+<a href="https://www.youtube.com/channel/UCjFo00zX0yvFrm5VIW1ieUw" target="_blank">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" width="138" target="_blank" alt="imagem-youtube"/> </a>
+ </div>
+     
+<div>
+  <h2> HABILIDADES
+  <br/><br/>
+ Fornt-End:
   <hr/>
-   Fornt-End 
-  <ul>
-    <li><img align="center" alt="Tonis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   </li>
-    <li>
-      <img align="center" alt="Tonis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </li>  
-  </ul>
+  <img align="center" alt="Tonis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tonis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Tonis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Tonis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Tonis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="Tonis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h2>  Outras Tecnologias:</h2>
+  <hr/>
   <img align="center" alt="Tonis-JavaSE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Tonis-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Tonis-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Tonis-PostGrees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+ <hr/>   
 </div>
-  
-  
-<hr/>
-  
-<hr/>
- 
-
-</div>
-  
-  
-<hr/>
-  
-<hr/>
  
