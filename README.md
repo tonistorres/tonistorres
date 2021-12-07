@@ -46,5 +46,9 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 <img align="center" alt="Tonis-JavaSE" height="30" width="40" alt="image-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" height="30" width="40" alt="imagem-ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />   
 <img align="center" height="50"  width="100" alt="imagem-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />    
-<img align="center" height="30" width="40" alt="imagem-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> </div>  
+<img align="center" height="30" width="40" alt="imagem-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> 
+<img align="center" height="30" width="40" alt="imagem-jest"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />  
+</div>  
+  
+  
 <hr/>     
