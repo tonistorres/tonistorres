@@ -13,21 +13,24 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonistorres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonistorres&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+
+  
+<div><br>
+
+  <h2> Conecte-se comigo:</h2>
+
+<a href="https://www.linkedin.com/in/tonistorres/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="38" width="38" target="_blank" alt="imagem-linkedin" /> </a>
+<a href="https://github.com/tonistorres" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="38" width="38"   alt="Imagem-github"/></a>
+<a href="#" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" width="138" target="_blank" alt="imagem-email"/> </a>
+ 
+
+  	
   <div>
-<h2> Conecte-se comigo:</h2>
+    
 
-<span> 
-
-  <a href="https://www.youtube.com/channel/UCjFo00zX0yvFrm5VIW1ieUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.instagram.com/tonistorresferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  <a href = "mailto:sisvenda2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center"  style="display: inline_block"> 
   
-  <a href="https://www.linkedin.com/in/tonistorres" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</span>
+</div>
     
 </div>
   <h2> HABILIDADES:</h>
