@@ -41,7 +41,6 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 </div>     
 <div>  
  <h2>  Outras Tecnologias:</h2>
-<img align="center" alt="Tonis-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="40" alt="imagem-bash"/>
 <img align="center" alt="Tonis-JavaSE" height="30" width="40" alt="image-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" height="30" width="40" alt="imagem-ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />   
