@@ -48,6 +48,13 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
 <img align="center" height="30" width="40" alt="imagem-github"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> 
 <img align="center" height="30" width="40" alt="imagem-jest"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />  
 </div>  
+<div>
+Alguns vídeos:
+<a href="https://www.linkedin.com/posts/tonistorres_link-da-page-httpslnkdine9pbzsn3-front-end-activity-6875075917610319872-5MPF" target="_blank">  </a>
+  
+  
+  
+</div>  
   
   
 <hr/>     
