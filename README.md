@@ -34,6 +34,8 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco co
   <img align="center" alt="Tonis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Tonis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Tonis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tonis-redux height="30" width="140" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <script src="https://code.iconify.design/2/2.1.0/iconify.min.js"></script>
 </div>
 <div>  
   <h2>DataBases:</h2>
