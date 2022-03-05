@@ -4,8 +4,9 @@
 - 🌱 Aprendendo **Skills**: Criatividade, Liderança, Comunicação, Colaboração, Inteligência Emocional,Pensamento Crítico, Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
 <div>
 SOBRE:
-Tecnólogo por definição, sou apaixonado por linguagens de máquinas, busco constatemente me reciclar. Fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, professores etc. Algo marcante que aconteceu na minha vida, foi o dia que decidi aprender matématica de fato. Bem eu coloquei vários livros de matématica sobre a mesa, livros da 4ª,5ª,6ª,7ª,8ª sérei do 1º e 2º ano do segundo grau. Depois me dediquei por vários meses à estudar e responder todos os exercícios propostos por cada um deles, porém, quando cheguei em matriz percebi que amava matemática mais os numéros não tinham dinamismo(eram estáticos), sem graça... Foi quando eu descobri os algoritmos e pude dar vida aos números que tanto amava por meio de linguagens computacionais.  Aprender a aprender esse é o lema que carrego comigo e me esforço sempre à melhorar como profissional e pessoa desenvolvedora que sou. 
-</div>
+Tecnólogo por definição, sou apaixonado por linguagens de máquinas e busco constatemente me reciclar, fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, professores etc. 
+Aprender a aprender, esse é o lema que carrego comigo, e me esforço sempre à melhorar como profissional e pessoa desenvolvedora que sou.
+Tecnologias e aprendizados: HTML (HyperText Markup Language), CSS (Cascading Style Sheets), JS ES6 (Java Script), node (ambiente de execução Javascript server-side),Biblioteca React, Unix & Bash, Git, GitHub, DOM, Redux, Contex API, Styled-Components(biblioteca para React e React Native que estiliza a nível de componente sua aplicação), MYSQL(Sistema Gerenciador de Banco de Dados Relacional), Testes Unitários, Higher-order function e Docker.</div>
 <hr/>
 
 <h2 align="center">Algumas das minhas estatísticas :bar_chart:</h2>
