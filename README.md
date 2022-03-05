@@ -4,7 +4,7 @@
 - 🌱 Aprendendo **Skills**: Criatividade, Liderança, Comunicação, Colaboração, Inteligência Emocional,Pensamento Crítico, Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
 <div>
 SOBRE:
-Tecnólogo por definição, sou apaixonado por linguagens de máquinas e busco constatemente me reciclar, fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, professores etc. 
+Tecnólogo por definição, sou apaixonado por linguagens de máquinas e busco constantemente me reciclar, fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, professores etc. 
 Aprender a aprender, esse é o lema que carrego comigo, e me esforço sempre à melhorar como profissional e pessoa desenvolvedora que sou.
 Tecnologias e aprendizados: HTML (HyperText Markup Language), CSS (Cascading Style Sheets), JS ES6 (Java Script), node (ambiente de execução Javascript server-side),Biblioteca React, Unix & Bash, Git, GitHub, DOM, Redux, Contex API, Styled-Components(biblioteca para React e React Native que estiliza a nível de componente sua aplicação), MYSQL(Sistema Gerenciador de Banco de Dados Relacional), Testes Unitários, Higher-order function e Docker.</div>
 <hr/>
