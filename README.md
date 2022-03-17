@@ -37,12 +37,9 @@ Tecnologias e aprendizados: HTML (HyperText Markup Language), CSS (Cascading Sty
    <img align="center" alt="Tonis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img  align="center" alt="Tonis-CSS" height="30" width="40"  src="https://img.icons8.com/color/48/000000/redux.png"/>  
 </div>
- <div>
-   <h2>Back-End</h2>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  </div>
+ 
 <div>  
-  <h2>DataBases:</h2>
+  <h2>Back-End:</h2>
   <img align="center" alt="Tonis-SQL" height="42" width="138" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Tonis-Mocha" height="42" width="138"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
   <img align="center" alt="Tonis-docker" height="42" width="138" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
