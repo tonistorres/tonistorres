@@ -45,6 +45,7 @@ Atualmente resolvi me desafiar ingressando no curso de Desenvolvimento Web, onde
   <img align="center" alt="Tonis-Mocha" height="32" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
   <img align="center" alt="Tonis-docker" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Tonis-express" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Tonis-express" height="32" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
 </div> 
   
 <div>  
