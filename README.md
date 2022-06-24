@@ -6,7 +6,7 @@
 SOBRE:
 Tecnólogo por definição, sou apaixonado por linguagens de máquinas e busco constantemente me reciclar, fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, amigos desenvolvedores, professores, etc. Aprender a aprender, esse é o meu lema, e me esforço sempre a melhorar como profissional e pessoa desenvolvedora que sou.
 
-Atualmente resolvi me desafiar ingressando no curso de Desenvolvimento Web, onde estou apendendo uma nova stack, que contempla tecnologias como: Type Script, Node Js, React entre outras. O curso é muito intenso dado a robustez curricular, mais o comprometimento genuíno de ambas as partes são o diferencial nessa jornada de sucesso.
+Atualmente resolvi me desafiar ingressando no curso de Desenvolvimento Web, onde estou aprendendo uma nova stack, que contempla tecnologias como: Type Script, Node Js, React entre outras. O curso é muito intenso dado a robustez curricular, mais o comprometimento genuíno de ambas as partes são o diferencial nessa jornada de sucesso.
 <hr/>
 
 <h2 align="center">Algumas das minhas estatísticas :bar_chart:</h2>
