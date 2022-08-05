@@ -1,6 +1,6 @@
 
 **Olá! Eu sou <a href="https://www.linkedin.com/in/tonistorres/"><i>Tonis Torres</i></a>.**
-- 🔭 Desenvolvedor FullStack e estudante de Análise e Desenvolvimento de Sistemas.
+- 🔭 Desenvolvedor FullStack.
 - 🌱 **Soft-Skills**: Criatividade, Liderança, Comunicação, Colaboração, Inteligência Emocional,Pensamento Crítico.
 - 🌱 **Fundamentos**: Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
 - 🌱 **Front-End**: React, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router,RTL, Redux , Context API e React Hooks.
