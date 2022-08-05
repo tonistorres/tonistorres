@@ -1,6 +1,6 @@
 
 **Olá! Eu sou <a href="https://www.linkedin.com/in/tonistorres/"><i>Tonis Torres</i></a>.**
-- 🔭 Estudante de Desenvolvimento WEB **Trybe** e Análise e Desenvolvimento de Sistemas na **FACAM-MA**.
+- 🔭 Desenvolvedor FullStack **Trybe** e Estudante de Análise e Desenvolvimento de Sistemas na **FACAM-MA**.
 - 🌱 Aprendendo **Skills**: Criatividade, Liderança, Comunicação, Colaboração, Inteligência Emocional,Pensamento Crítico, Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
 <div>
 SOBRE:
