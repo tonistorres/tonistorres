@@ -4,6 +4,7 @@
 - 🌱 **Soft-Skills**: Criatividade, Liderança, Comunicação, Colaboração, Inteligência Emocional,Pensamento Crítico.
 - 🌱 **Fundamentos**: Unix&Bash, Git, GitHub,Js Básico, DOM, HTML, CSS, Testes Unitários, JS ES6.
 - 🌱 **Front-End**: React, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router,RTL, Redux , Context API e React Hooks.
+- 🌱 **Back-End**: Banco de Dados SQL, NoSQL,Node, Express, MVC, API, REST, TypeScript, Docker, JWT, File Upload, SOLID, ORM,  Depoy Heroku.   
 <div>
 SOBRE:
 Tecnólogo por definição, sou apaixonado por linguagens de máquinas e busco constantemente me reciclar, fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, amigos desenvolvedores, professores, etc. Aprender a aprender, esse é o meu lema, e me esforço sempre a melhorar como profissional e pessoa desenvolvedora que sou. Hoje desenvolvedor FullStack me sinto motivado ajudar empresas a solucionarem problemas computacionais, impactando positivamente clientes com soluções criativas e inovadoras. 
