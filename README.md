@@ -30,7 +30,7 @@ Tecnólogo por definição, sou apaixonado por linguagens de máquinas e busco c
      <h1 align="center"> HABILIDADES </h1>
 <hr/>  
 <div>
-  <h2>Fornt-End:</h2>
+  <h2>Front-End:</h2>
   
   <img align="center" alt="Tonis-HTML" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tonis-Js" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
