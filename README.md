@@ -5,6 +5,7 @@
 - 🌱 **Front-End**: React, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router,RTL, Redux , Context API e React Hooks.
 - 🌱 **Back-End**: Banco de Dados SQL, NoSQL,Node, Express, MVC, API, REST, TypeScript, Docker, JWT, File Upload, SOLID, ORM,  Depoy Heroku.   
 - 🌱 **Python**: Entrada e Saída de Dados, Teste Unitário (pytest), POO, Introdução Padrões(Iterator, Strategy, Adapter, Decorator, Observer e Factory), Raspagem de Dado, Complexidade de Algoritmo e Recursividade.
+- 🌱 **JavaSE (Desktop)**: Relatórios (JasperReport/JasperStudio F1),Java Design(NetBean). 
 <div>
 <strong>"Tecnólogo por definição, sou apaixonado por linguagens de máquinas. Aprender a aprender, esse é o meu lema, e me esforço sempre a melhorar como profissional e pessoa desenvolvedora que sou".</strong>
 <h2 align="center">Algumas das minhas estatísticas :bar_chart:</h2>
