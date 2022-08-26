@@ -7,9 +7,7 @@
 - 🌱 **Python**: Entrada e Saída de Dados, Teste Unitário (pytest), POO, Introdução Padrões(Iterator, Strategy, Adapter, Decorator, Observer e Factory), Raspagem de Dado, Complexidade de Algoritmo e Recursividade.
 <div>
 SOBRE:
-Tecnólogo por definição, sou apaixonado por linguagens de máquinas e busco constantemente me reciclar, fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, amigos desenvolvedores, professores, etc. Aprender a aprender, esse é o meu lema, e me esforço sempre a melhorar como profissional e pessoa desenvolvedora que sou. Hoje desenvolvedor FullStack me sinto motivado ajudar empresas a solucionarem problemas computacionais, impactando positivamente clientes com soluções criativas e inovadoras. 
-<hr/>
-
+Tecnólogo por definição, sou apaixonado por linguagens de máquinas. Aprender a aprender, esse é o meu lema, e me esforço sempre a melhorar como profissional e pessoa desenvolvedora que sou.
 <h2 align="center">Algumas das minhas estatísticas :bar_chart:</h2>
 <div align="center">
   <a href="https://github.com/tonistorres">
