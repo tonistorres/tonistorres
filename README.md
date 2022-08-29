@@ -23,7 +23,6 @@
 <a href="https://github.com/tonistorres" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" width="100"   alt="Imagem-github"/></a>
 <a href="https://www.instagram.com/tonistorresferreira/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" width="100" target="_blank" alt="imagem-intagram"/> </a>
 <a href="https://www.facebook.com/datorres.ferreira" target="_blank">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="32" width="100" target="_blank" alt="imagem-facebook"/> </a>
-<a href="https://www.youtube.com/channel/UCjFo00zX0yvFrm5VIW1ieUw" target="_blank">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="32" width="100" target="_blank" alt="imagem-youtube"/> </a>
   </div>    
  </div>
      <h1 align="center"> HABILIDADES </h1>
