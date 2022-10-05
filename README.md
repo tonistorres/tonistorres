@@ -7,7 +7,10 @@
 - 🌱 **Python**: Entrada e Saída de Dados, Teste Unitário (pytest), POO, Introdução Padrões(Iterator, Strategy, Adapter, Decorator, Observer e Factory), Raspagem de Dado, Complexidade de Algoritmo e Recursividade.
 - 🌱 **JavaSE (Desktop)**: Relatórios (JasperReport/JasperStudio F1),Java Design(NetBean). 
 <div>
-<strong>"Tecnólogo por definição, sou apaixonado por linguagens de máquinas. Aprender a aprender, esse é o meu lema, e me esforço sempre a melhorar como profissional e pessoa desenvolvedora que sou".</strong>
+<strong>Profissional com formação em Desenvolvimento Web Full Stack, com foco em atuar no front-end, tenho competência em HTML, CSS, Java Script, Unix & Bash, Shell Script, Git, GitHub, DOM, Contex API, Styled-Components, BootStrap, Testes Unitários (Jest), Higher-Order Function, já tendo desenvolvido mais de 30 projetos ao longo da minha formação profissional.
+Me defino como tecnológico, sou apaixonado por linguagens de máquinas e busco constantemente me reciclar, fazendo cursos, me relacionando com profissionais experientes, colegas de faculdade, amigos desenvolvedores, professores, etc. Aprender a aprender, esse é o meu lema, e me esforço sempre a melhorar como profissional e pessoa desenvolvedora que sou. Me sinto motivado a ajudar empresas a solucionarem problemas computacionais, impactando positivamente clientes com soluções criativas e inovadoras.
+GitHub:https://github.com/tonistorres
+Portfólio: app-portfolio-personal.vercel.app/home</strong>
 <h2 align="center">Algumas das minhas estatísticas :bar_chart:</h2>
 <div align="center">
   <a href="https://github.com/tonistorres">
