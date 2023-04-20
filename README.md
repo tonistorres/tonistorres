@@ -5,7 +5,7 @@
 - 🌱 **Front-End**: React, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router,RTL, Redux , Context API e React Hooks.
 - 🌱 **Back-End**: Banco de Dados SQL, NoSQL,Node, Express, MVC, API, REST, TypeScript, Docker, JWT, File Upload, SOLID, ORM,  Depoy Heroku.   
 - 🌱 **Python**: Entrada e Saída de Dados, Teste Unitário (pytest), POO, Introdução Padrões(Iterator, Strategy, Adapter, Decorator, Observer e Factory), Raspagem de Dado, Complexidade de Algoritmo e Recursividade.
-- 🌱 **JavaSE (Desktop)**: Relatórios (JasperReport/JasperStudio F1),Java Design(NetBean). 
+- 🌱 **JavaSE (Desktop)**:Desenvolvimento de Aplicações Desktop. 
 <div>
   
 <p>Profissional com formação em Desenvolvimento Web Full Stack, com foco em atuar no front-end, com mais de 30 projetos desenvolvidos ao longo da minha formação profissional.</p>
